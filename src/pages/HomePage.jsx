@@ -1,4 +1,4 @@
-import Post from './post'
+import Post from '../components/post'
 
 function HomePage() {
   return (
